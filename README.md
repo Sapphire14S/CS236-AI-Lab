@@ -32,18 +32,18 @@ CS236-AI-Lab/
 
 | Assignment | Topic | Concepts Covered |
 |------------|-------|------------------|
-| Assignment 0 | Introduction to Python | Python fundamentals, OOP, NumPy, functions, dictionaries, loops, data structures |
-| Assignment 01 | Python Programming Fundamentals | Variables, lists, tuples, dictionaries, functions, loops, conditional statements |
-| Assignment 02 | File Handling and NumPy Operations | Text file manipulation, NumPy arrays, matrix operations, array transformations |
-| Assignment 03 | Data Analysis and Visualization | Pandas, NumPy applications, statistical analysis, Matplotlib, Seaborn |
-| Assignment 04 | Uninformed Search Algorithms | BFS, DFS, Depth-Limited Search, Iterative Deepening, state-space search |
-| Assignment 05 | Advanced State Space Search | Uniform Cost Search, Bidirectional Search, 8-puzzle and 15-puzzle problems |
-| Assignment 06 | Informed Search Algorithms | A* Search, Greedy Best-First Search, heuristic functions, puzzle solving |
-| Assignment 07 | Optimization using Local Search | Hill Climbing, Simulated Annealing, Traveling Salesman Problem |
-| Assignment 08 | Genetic Algorithms | TSP optimization, Optimal Power Flow, crossover and mutation operators |
-| Assignment 09 | Particle Swarm Optimization | PSO, multivariate linear regression, optimization on Boston Housing dataset |
-| Assignment 10 | Game Playing using Minimax | Tic-Tac-Toe AI, minimax algorithm, adversarial search |
-| Assignment 11 | Chess AI using Alpha-Beta Pruning | Minimax, Alpha-Beta pruning, heuristic evaluation, adversarial game playing, chess AI |
+| Lab&nbsp;0 | Introduction to Python | Python fundamentals, OOP, NumPy, functions, dictionaries, loops, data structures |
+| Lab&nbsp;01 | Python Programming Fundamentals | Variables, lists, tuples, dictionaries, functions, loops, conditional statements |
+| Lab&nbsp;02 | File Handling and NumPy Operations | Text file manipulation, NumPy arrays, matrix operations, array transformations |
+| Lab&nbsp;03 | Data Analysis and Visualization | Pandas, NumPy applications, statistical analysis, Matplotlib, Seaborn |
+| Lab&nbsp;04 | Uninformed Search Algorithms | BFS, DFS, Depth-Limited Search, Iterative Deepening, state-space search |
+| Lab&nbsp;05 | Advanced State Space Search | Uniform Cost Search, Bidirectional Search, 8-puzzle and 15-puzzle problems |
+| Lab&nbsp;06 | Informed Search Algorithms | A* Search, Greedy Best-First Search, heuristic functions, puzzle solving |
+| Lab&nbsp;07 | Optimization using Local Search | Hill Climbing, Simulated Annealing, Traveling Salesman Problem |
+| Lab&nbsp;08 | Genetic Algorithms | TSP optimization, Optimal Power Flow, crossover and mutation operators |
+| Lab&nbsp;09 | Particle Swarm Optimization | PSO, multivariate linear regression, optimization on Boston Housing dataset |
+| Lab&nbsp;10 | Game Playing using Minimax | Tic-Tac-Toe AI, minimax algorithm, adversarial search |
+| Lab&nbsp;11 | Chess AI using Alpha-Beta Pruning | Minimax, Alpha-Beta pruning, heuristic evaluation, adversarial game playing, chess AI |
 
 ---
 
@@ -76,14 +76,6 @@ CS236-AI-Lab/
 - Chess AI
 - Numerical Computing
 - Data Visualisation
-
----
-
-## Academic Information
-
-- **Course:** CS236 — Artificial Intelligence Lab
-- **Institute:** Indian Institute of Information Technology Guwahati
-- **Department:** Computer Science and Engineering
 
 ---
 
