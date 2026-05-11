@@ -1,1 +1,1 @@
-# CS235-AI-Lab
+# CS236-AI-Lab
