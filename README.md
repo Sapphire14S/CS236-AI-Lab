@@ -32,6 +32,7 @@ CS236-AI-Lab/
 | Assignment 08 | Genetic Algorithms | TSP optimization, Optimal Power Flow, crossover and mutation operators |
 | Assignment 09 | Particle Swarm Optimization | PSO, multivariate linear regression, optimization on Boston Housing dataset |
 | Assignment 10 | Game Playing using Minimax | Tic-Tac-Toe AI, minimax algorithm, adversarial search |
+| Assignment 11 | Chess AI using Alpha-Beta Pruning | Minimax, Alpha-Beta pruning, heuristic evaluation, adversarial game playing, chess AI |
 
 ---
 
@@ -42,6 +43,8 @@ CS236-AI-Lab/
 - Pandas
 - Matplotlib
 - Seaborn
+- Pygame
+- python-chess
 
 ---
 
@@ -58,6 +61,8 @@ CS236-AI-Lab/
 - Genetic Algorithms
 - Machine Learning Foundations
 - Adversarial Search
+- Game Playing AI
+- Chess AI
 - Numerical Computing
 - Data Visualisation
 
