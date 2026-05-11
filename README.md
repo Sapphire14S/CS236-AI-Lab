@@ -1,1 +1,84 @@
-# CS236-AI-Lab
+# CS236 — Artificial Intelligence Lab
+
+Repository containing laboratory assignments, search algorithms, optimisation techniques, and machine learning implementations completed as part of the **CS236 Artificial Intelligence Lab** course at **Indian Institute of Information Technology Guwahati (IIITG)**.
+
+---
+
+## Repository Structure
+
+```text
+CS236-AI-Lab/
+│
+├── README.md
+├── LICENSE
+│
+
+```
+
+---
+
+## Assignments Overview
+
+| Assignment | Topic | Concepts Covered |
+|------------|-------|------------------|
+| Assignment 0 | Introduction to Python | Python fundamentals, OOP, NumPy, functions, dictionaries, loops, data structures |
+| Assignment 01 | Python Programming Fundamentals | Variables, lists, tuples, dictionaries, functions, loops, conditional statements |
+| Assignment 02 | File Handling and NumPy Operations | Text file manipulation, NumPy arrays, matrix operations, array transformations |
+| Assignment 03 | Data Analysis and Visualization | Pandas, NumPy applications, statistical analysis, Matplotlib, Seaborn |
+| Assignment 04 | Uninformed Search Algorithms | BFS, DFS, Depth-Limited Search, Iterative Deepening, state-space search |
+| Assignment 05 | Advanced State Space Search | Uniform Cost Search, Bidirectional Search, 8-puzzle and 15-puzzle problems |
+| Assignment 06 | Informed Search Algorithms | A* Search, Greedy Best-First Search, heuristic functions, puzzle solving |
+| Assignment 07 | Optimization using Local Search | Hill Climbing, Simulated Annealing, Traveling Salesman Problem |
+| Assignment 08 | Genetic Algorithms | TSP optimization, Optimal Power Flow, crossover and mutation operators |
+| Assignment 09 | Particle Swarm Optimization | PSO, multivariate linear regression, optimization on Boston Housing dataset |
+| Assignment 10 | Game Playing using Minimax | Tic-Tac-Toe AI, minimax algorithm, adversarial search |
+
+---
+
+## Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## Topics Covered
+
+- Artificial Intelligence
+- Search Algorithms
+- Heuristic Search
+- State Space Search
+- Local Search Algorithms
+- Evolutionary Algorithms
+- Optimisation Techniques
+- Particle Swarm Optimisation
+- Genetic Algorithms
+- Machine Learning Foundations
+- Adversarial Search
+- Numerical Computing
+- Data Visualisation
+
+---
+
+## Academic Information
+
+- **Course:** CS236 — Artificial Intelligence Lab
+- **Institute:** Indian Institute of Information Technology Guwahati
+- **Department:** Computer Science and Engineering
+
+---
+
+## Author
+
+**Shivank Kumar**  
+B.Tech — Computer Science and Engineering  
+Indian Institute of Information Technology Guwahati
+
+---
+
+## License
+
+This repository is licensed under the MIT License.
